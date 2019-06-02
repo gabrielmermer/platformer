@@ -35,4 +35,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/devRoom.unity
     guid: bc3d27b50021b9c429affab030f4f806
+  - enabled: 1
+    path: Assets/level02.unity
+    guid: 2354c1febefc441a9ba73828189083cb
   m_configObjects: {}
