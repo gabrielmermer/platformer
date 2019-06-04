@@ -855,7 +855,12 @@ PrefabInstance:
     - target: {fileID: 114102715391990394, guid: ea040a76895f65745899f41e3dff6aeb,
         type: 3}
       propertyPath: newSceneName
-      value: Start
+      value: level 03
+      objectReference: {fileID: 0}
+    - target: {fileID: 114102715391990394, guid: ea040a76895f65745899f41e3dff6aeb,
+        type: 3}
+      propertyPath: transitionWhen
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ea040a76895f65745899f41e3dff6aeb, type: 3}
@@ -4121,7 +4126,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4108124886920208, guid: ea040a76895f65745899f41e3dff6aeb, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 97.13542
+      value: 90.95
       objectReference: {fileID: 0}
     - target: {fileID: 4108124886920208, guid: ea040a76895f65745899f41e3dff6aeb, type: 3}
       propertyPath: m_LocalPosition.y
@@ -4166,7 +4171,12 @@ PrefabInstance:
     - target: {fileID: 114102715391990394, guid: ea040a76895f65745899f41e3dff6aeb,
         type: 3}
       propertyPath: newSceneName
-      value: Start
+      value: level 04
+      objectReference: {fileID: 0}
+    - target: {fileID: 114102715391990394, guid: ea040a76895f65745899f41e3dff6aeb,
+        type: 3}
+      propertyPath: transitionWhen
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ea040a76895f65745899f41e3dff6aeb, type: 3}
